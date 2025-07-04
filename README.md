@@ -13,7 +13,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 
 ## 🧵 Current Focus (July 2025)
 
-📂 [DFIR CTF Series](https://github.com/...)  
+📂 [DFIR CTF Series](https://github.com/jynxora/dfir-ctf-lite-challenges)  
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)
 
