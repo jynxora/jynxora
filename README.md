@@ -1,6 +1,6 @@
 # 🧠 Jynx | Learning in Public
 
-Hey, I’m Jinay — currently on a 700-day challenge to build dangerous depth in:
+Hey, I’m Jinay — currently on a 700-day challenge to build serious depth in:
 
 - 🛡️ **Cybersecurity**
 - 🧪 **Digital Forensics & Incident Response (DFIR)**
