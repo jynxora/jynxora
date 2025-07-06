@@ -6,7 +6,7 @@ Hey, I’m Jinay — currently on a 700-day challenge to build serious depth in:
 - 🧪 **Digital Forensics & Incident Response (DFIR)**
 - ⚛️ **Quantum Computing / Cryptography**
 
-I’m not chasing followers. I’m building skill.  
+I’m not chasing eye-balls or attention. I’m building foundations.  
 Daily labs, real-world problems, raw notes — all shared as they happen.
 
 ---
