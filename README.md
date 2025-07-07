@@ -26,7 +26,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 ## 🌐 Connect or Collaborate
 
 📌 [X / Twitter](https://x.com/JynxZero)  
-📌 [LinkedIn](https://www.linkedin.com/in/jinay-shah-03472a372/)  
+📌 [LinkedIn](https://www.linkedin.com/in/jynxora)  
 📌 [Medium](https://medium.com/@jynxora)
 
 DMs open. Forks welcome. Flames ignored.  
