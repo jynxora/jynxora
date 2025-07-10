@@ -13,7 +13,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 
 ## 🧵 Current Flow of Work (July 2025)
 
-📂 [DFIR CTF Series](https://github.com/jynxora/dfir-ctf-lite-challenges)  
+📂 [DFIR CTF Series](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity)  
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
 🧪 [Memory Forensic Report](https://github.com/jynxora/Memory-Forensics)
