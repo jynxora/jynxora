@@ -1,4 +1,4 @@
-# 🧠 Jynx | Learning in Public
+# Jynx | Learning in Public
 
 Hey, I’m Jinay — currently on a 700-day challenge to build serious depth in:
 
