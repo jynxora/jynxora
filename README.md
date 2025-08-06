@@ -11,7 +11,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 
 ---
 
-## 🧵 Current Flow of Work (July 2025)
+## 🧵 Current Flow of Work
 
 📂 [DFIR CTF Series](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity)  
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
