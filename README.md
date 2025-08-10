@@ -17,7 +17,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
 🧪 [M-57 Jean Forensic Case 2009](https://github.com/jynxora/M57-Jean-Case-Analysis)  
-📝 [Linux CLI Challenges](https://github.com/jynxora/CLI-Challenge-Analysis)
+📝 [Linux CLI Challenges](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/README.md)
 
 > “Start before you’re ready. Publish before you’re perfect.”  
 > — Not a motto, a method.
