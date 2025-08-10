@@ -13,7 +13,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 
 ## 🧵 Current Flow of Work
 
-📂 [IOC Extraction Toolkit](https://github.com/jynxora/IOC-Extraction-Toolkit/blob/main/README.md)  
+📂 [IOC Extraction Toolkit](https://github.com/jynxora/IOC-Extraction-Toolkit)  
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
 🧪 [M-57 Jean Forensic Case 2009](https://github.com/jynxora/M57-Jean-Case-Analysis)  
