@@ -13,12 +13,12 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 
 ## 🧵 Current Flow of Work
 
-[Quantum Research Drafts](https://github.com/jynxora/Quantum-Computing-Research-Drafts)  
-[Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
-[IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
-[M-57 Jean Forensic Case 2009](https://github.com/jynxora/M57-Jean-Case-Analysis)  
-[Comprehnesive Regex Exercises](https://github.com/jynxora/Regex-Exercises-and-Problem-Solving)
-[OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp)
+[Quantum Research Drafts](https://github.com/jynxora/Quantum-Computing-Research-Drafts) (Research drafts from internship)
+[Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers) (Comprehensive beginners guide to linux)
+[IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes) (Theoretical foundations of Cybersecurity)
+[M-57 Jean Forensic Case 2009](https://github.com/jynxora/M57-Jean-Case-Analysis) (Digital Forensic Disc Analysis)
+[Comprehnesive Regex Exercises](https://github.com/jynxora/Regex-Exercises-and-Problem-Solving) (Advance Regex exercises)
+[OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp) (List of OverTheWire Wargames WriteUp)
 
 > “Start before you’re ready. Publish before you’re perfect.”  
 > — Not a motto, a method.
