@@ -1,4 +1,4 @@
-# ⚓ Jynx | Learning in Public
+# ⚓ Jinay Shah | Jynx Learning in Public
 
 Hey, I’m Jinay — currently on a 700-day challenge to build serious depth in:
 
@@ -18,6 +18,7 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
 [M-57 Jean Forensic Case 2009](https://github.com/jynxora/M57-Jean-Case-Analysis)  
 [Comprehnesive Regex Exercises](https://github.com/jynxora/Regex-Exercises-and-Problem-Solving)
+[OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp)
 
 > “Start before you’re ready. Publish before you’re perfect.”  
 > — Not a motto, a method.
