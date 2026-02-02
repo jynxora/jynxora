@@ -16,13 +16,13 @@ This is daily execution, failure, iteration, and documentation.
 
 I publish:
 
-lab work
+ - lab work
 
-system designs
+ - system designs
 
-raw notes
+ - raw notes
 
-writeups that include what failed and why
+ - writeups that include what failed and why
 
 No motivation. No shortcuts. Just accumulation.
 
