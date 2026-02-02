@@ -63,10 +63,8 @@ Not a motto — an operating rule.
  - [LinkedIn](https://www.linkedin.com/in/jynxora)  
  - [Medium](https://medium.com/@jynxora)
 
- - DMs open.
-
- - Forks welcome.
-
- - Flames ignored.  
+DMs open.
+Forks welcome.
+Flames ignored.  
 
 This repository list is a log of becoming, not a highlight reel.
