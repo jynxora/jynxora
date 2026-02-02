@@ -1,17 +1,34 @@
-# ⚓ Jinay Shah | Jynx Learning in Public
+# Jinay Shah | Jynx Learning in Public
 
-Hey, I’m Jinay — currently on a 700-day challenge to build serious depth in:
+I’m Jinay Shah.
+Currently executing a 700-day skill accumulation challenge focused on building real, uncomfortable depth in:
 
-- **Cybersecurity**
-- **Digital Forensics & Incident Response (DFIR)**
-- **Quantum Computing / Cryptography**
+Cybersecurity
 
-I’m not chasing eye-balls or attention. I’m building foundations.  
-Daily labs, real-world problems, raw notes — all shared as they happen.
+Digital Forensics & Incident Response (DFIR)
+
+Malware & Low-Level Systems
+
+Quantum Computing / Cryptography
+
+This is not content creation.
+This is daily execution, failure, iteration, and documentation.
+
+I publish:
+
+lab work
+
+system designs
+
+raw notes
+
+writeups that include what failed and why
+
+No motivation. No shortcuts. Just accumulation.
 
 ---
 
-## 🧵 Current Flow of Work
+## Current Flow of Work
 
 [Quantum Research Drafts](https://github.com/jynxora/Quantum-Computing-Research-Drafts) (Research drafts from internship)
 
@@ -25,16 +42,31 @@ Daily labs, real-world problems, raw notes — all shared as they happen.
 
 [OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp) (List of OverTheWire Wargames WriteUp)
 
-> “Start before you’re ready. Publish before you’re perfect.”  
-> — Not a motto, a method.
+How I Work
+
+Behavior > buzzwords
+
+Explainability > clever tricks
+
+Constraints acknowledged explicitly
+
+If something feels confusing or ego-damaging, that’s where I stay longer
+
+“Start before you’re ready. Publish before you’re perfect.”
+Not a motto — an operating rule.
 
 ----------------------------------------------------------------------------------------------------
 
-## 🌐 Connect or Collaborate
+## Connect or Collaborate
 
 [X / Twitter](https://x.com/JynxOra)  
 [LinkedIn](https://www.linkedin.com/in/jynxora)  
 [Medium](https://medium.com/@jynxora)
 
-DMs open. Forks welcome. Flames ignored.  
-This is the log of becoming.
+DMs open.
+
+Forks welcome.
+
+Flames ignored.  
+
+This repository list is a log of becoming, not a highlight reel.
