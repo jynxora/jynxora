@@ -59,9 +59,9 @@ Not a motto — an operating rule.
 
 ## Connect or Collaborate
 
-[X / Twitter](https://x.com/JynxOra)  
-[LinkedIn](https://www.linkedin.com/in/jynxora)  
-[Medium](https://medium.com/@jynxora)
+ - [X / Twitter](https://x.com/JynxOra)  
+ - [LinkedIn](https://www.linkedin.com/in/jynxora)  
+ - [Medium](https://medium.com/@jynxora)
 
  - DMs open.
 
@@ -69,4 +69,4 @@ Not a motto — an operating rule.
 
  - Flames ignored.  
 
- - This repository list is a log of becoming, not a highlight reel.
+This repository list is a log of becoming, not a highlight reel.
