@@ -3,13 +3,13 @@
 I’m Jinay Shah.
 Currently executing a 700-day skill accumulation challenge focused on building real, uncomfortable depth in:
 
-Cybersecurity
+ - Cybersecurity
 
-Digital Forensics & Incident Response (DFIR)
+ - Digital Forensics & Incident Response (DFIR)
 
-Malware & Low-Level Systems
+ - Malware & Low-Level Systems
 
-Quantum Computing / Cryptography
+ - Quantum Computing / Cryptography
 
 This is not content creation.
 This is daily execution, failure, iteration, and documentation.
