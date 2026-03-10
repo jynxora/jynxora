@@ -30,7 +30,7 @@ No motivation. No shortcuts. Just accumulation.
 
 ## Current Flow of Work
 
- - [Anti-Forensics Data Wiping Detection Tool](https://github.com/jynxora/wipetrace)(WipeTrace scans raw disk images and identifies sectors that have been deliberately overwritten)
+ - [Anti-Forensics Data Wiping Detection Tool](https://github.com/jynxora/wipetrace) (WipeTrace scans raw disk images and identifies sectors that have been deliberately overwritten)
 
  - [OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp) (List of OverTheWire Wargames WriteUp)
 
