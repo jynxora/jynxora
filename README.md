@@ -30,17 +30,19 @@ No motivation. No shortcuts. Just accumulation.
 
 ## Current Flow of Work
 
- - [Quantum Research Drafts](https://github.com/jynxora/Quantum-Computing-Research-Drafts) (Research drafts from internship)
+ - [Anti-Forensics Data Wiping Detection Tool](https://github.com/jynxora/wipetrace)
 
- - [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers) (Comprehensive beginners guide to linux)
-
- - [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes) (Theoretical foundations of Cybersecurity)
+ - [OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp) (List of OverTheWire Wargames WriteUp)
 
  - [M-57 Jean Forensic Case 2009](https://github.com/jynxora/M57-Jean-Case-Analysis) (Digital Forensic Disc Analysis)
 
  - [Comprehnesive Regex Exercises](https://github.com/jynxora/Regex-Exercises-and-Problem-Solving) (Advance Regex exercises)
 
- - [OverTheWire Wargames [CTFs] Writeup(s)](https://github.com/jynxora/OverTheWire-WarGames-WriteUp) (List of OverTheWire Wargames WriteUp)
+ - [Quantum Research Drafts](https://github.com/jynxora/Quantum-Computing-Research-Drafts) (Research drafts from internship)
+
+ - [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers) (Comprehensive beginners guide to linux)
+
+ - [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes) (Theoretical foundations of Cybersecurity)
 
 How I Work?
 
